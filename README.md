@@ -1,4 +1,4 @@
-# Clustering Analysis and Interpretation
+# EDA, PCA, Clustering Analysis and Interpretation
 
 ## Overview
 
