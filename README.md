@@ -1,4 +1,4 @@
-# Data Science Project: Clustering Analysis and Interpretation
+# Clustering Analysis and Interpretation
 
 ## Overview
 
